@@ -6,3 +6,4 @@ En esta práctica instalaremos desde cero Arduino, la librería del ESP32 y el p
 
 ![P1 Iot](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/82cba985-d92a-436f-a092-11d9dbc7eb78)
 
+[Codigo de la practica](CodigoP1.ino)

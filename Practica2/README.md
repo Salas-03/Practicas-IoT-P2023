@@ -1,4 +1,4 @@
 # Codigo Led azul encendido
 
 
-[Codigo de la practica](CodigoLEDAzul.ino)
+[Codigo de LED Azul](CodigoLEDAzul.ino)

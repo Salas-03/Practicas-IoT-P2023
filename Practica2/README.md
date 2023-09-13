@@ -10,4 +10,6 @@
 
 # Prender y apagar el led interno del ESP32, enviar y ver la temperatura interna del ESP32 en el monitor serial
 
+[Codigo de Temperatura, encendido y apagado](CodigoTemperatura.ino)
+
 # Codigo para usar el ESP32 como servidor web

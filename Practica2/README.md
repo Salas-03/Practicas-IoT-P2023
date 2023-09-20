@@ -26,5 +26,12 @@ https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5522e8e8-97ab-4
 
 [Codigo para aprender y apagar desde el SW](CodigoPyASW.ino)
 
+https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/fd1e95b9-94df-4135-a5b6-68ab69b39298
+
+# Apagar y prender LED desde Sitio WEB
+
+[Codigo para apagar y prender LED desde SW](CodigoPyALED.ino)
+
+https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/568ff71d-b804-4094-a17b-de3d31d859a9
 
 

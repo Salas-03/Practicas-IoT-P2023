@@ -12,7 +12,7 @@ https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/1629d7e5-fca7-4
 
 # Pagina creada con IP
 
-[Codigo de SW con IP](CodigoTemperatura.ino)
+[Codigo de SW con IP](CodigoPaginaIP.ino)
 
 https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/7bcf70d6-395e-430f-b2a6-d53224d7cd02
 

@@ -26,3 +26,5 @@ https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5522e8e8-97ab-4
 
 [Codigo para aprender y apagar desde el SW](CodigoPyASW.ino)
 
+
+

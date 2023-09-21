@@ -14,6 +14,12 @@ En esta práctica aprendemos:
 
 # 3.4 Lectura de tarjetas RFID por medio del lector RC522
 
+![Foto 3 4](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/164923aa-5f5d-4806-a70a-67ddc0f3ce0f)
+
+https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/00e7b071-cfbb-4f6b-91b9-8dc25d7c50cb
+
+[Codigo lector de tarjetas RFID sencillo](CodigoLS.ino)
+
 # 3.5 Pequeño programa para control de accesos con el RC522
 
 ![Foto 3 5](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/e7be7b61-cee7-47bc-98d6-e99d56738fba)

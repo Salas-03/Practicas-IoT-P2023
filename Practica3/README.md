@@ -16,4 +16,4 @@ En esta práctica aprendemos:
 
 # 3.5 Pequeño programa para control de accesos con el RC522
 
-[Codigo de Control de Acceso](Codigo.ino)
+[Codigo de Control de Acceso](CodigoCA.ino)

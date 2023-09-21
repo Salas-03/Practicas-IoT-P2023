@@ -16,4 +16,8 @@ En esta práctica aprendemos:
 
 # 3.5 Pequeño programa para control de accesos con el RC522
 
+![Foto 3 5](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/e7be7b61-cee7-47bc-98d6-e99d56738fba)
+
+https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/543e6f16-f1e5-4f22-a43e-b6bbf0feec8a
+
 [Codigo de Control de Acceso](CodigoCA.ino)

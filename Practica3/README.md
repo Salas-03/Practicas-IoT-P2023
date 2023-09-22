@@ -8,9 +8,15 @@ En esta práctica aprendemos:
 
 # 3.1 Usar la fuente de poder para alimentar el ESP32
 
+![Foto 3 1](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/da0cec68-1f77-482b-8814-c5fab8e70653)
+
 # 3.2 Leer información del sensor de temperatura y humedad (DHT 11)
 
+![Foto 3 2](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/9598e725-a8ef-48a4-9cfc-465c5b6f1ef2)
+
 # 3.3 Leer información del sensor de ultrasónico (HC-SR04)
+
+![Foto 3 3](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/9e51064b-96aa-4ec0-8ada-d1cb2c53fc7b)
 
 # 3.4 Lectura de tarjetas RFID por medio del lector RC522
 

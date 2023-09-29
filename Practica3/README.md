@@ -14,9 +14,13 @@ En esta práctica aprendemos:
 
 ![Foto 3 2](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/9598e725-a8ef-48a4-9cfc-465c5b6f1ef2)
 
+[Codigo de temperatura y humedad](CodigoTyH.ino)
+
 # 3.3 Leer información del sensor de ultrasónico (HC-SR04)
 
 ![Foto 3 3](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/9e51064b-96aa-4ec0-8ada-d1cb2c53fc7b)
+
+[Codigo de sensor de proximidad](CodigoSP.ino)
 
 # 3.4 Lectura de tarjetas RFID por medio del lector RC522
 

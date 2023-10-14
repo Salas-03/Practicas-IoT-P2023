@@ -21,3 +21,15 @@ comunicación?
 5. Desde tu punto de vista individual crees que esta práctica, aunque no se pidió que la hicieran uds los
 estudiantes y solo la hizo la profesora ayudó a entender mas los conceptos teóricos? Si o no y porque
 - Si, por que verlo como funciona con los productos hechos despues de a ver visto la teoria en clase, despues de esto Lora queda mas claro
+
+4.2 Entender y practicar
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/6a8cfcb7-fb49-4475-9ea0-20d3f750c2b0)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/54773ae2-9d4a-4d18-9905-66cbb2da3265)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5bbf2bc6-f97e-47f6-816d-331f964d0b39)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5e4e667a-b99d-49df-9ae8-dc01c7a76b99)
+
+

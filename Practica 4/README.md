@@ -32,4 +32,32 @@ estudiantes y solo la hizo la profesora ayudó a entender mas los conceptos teó
 
 ![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5e4e667a-b99d-49df-9ae8-dc01c7a76b99)
 
+La aplicacion en el celular no estaba funcionando correctamente, pero en la computadora si.
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/e3e0e713-b2c5-457a-a5c2-94ba7bc0a07f)
+
+Temperatura
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/6b3468f8-bbf5-4cec-be75-e4a66b6231c3)
+
+Humedad
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/e70203e5-0ff6-4e71-8ea1-3b4ec994d522)
+
+Presion
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/98f28d67-9206-4466-9dd7-2b7d3bb129f7)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/675e9213-0c3f-4c46-95a0-7824b3a98a35)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/8909720e-c195-437d-b006-789583e8c359)
+
+
+## Panta Baja
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/28affd3e-7ac2-4c43-8545-ac53c9712519)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5a33a28b-dc08-4d67-9e98-2368aba5f4c1)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/369d6b79-53c0-4d30-bdb8-abbbe1b1eb17)
+
 

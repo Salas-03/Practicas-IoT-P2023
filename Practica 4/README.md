@@ -22,7 +22,7 @@ comunicación?
 estudiantes y solo la hizo la profesora ayudó a entender mas los conceptos teóricos? Si o no y porque
 - Si, por que verlo como funciona con los productos hechos despues de a ver visto la teoria en clase, despues de esto Lora queda mas claro
 
-4.2 Entender y practicar
+# 4.2 Entender y practicar de forma manual uno de los protocolos mas usados en IoT: MQTT, usaremos el “bróker” de ubidots
 
 ![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/6a8cfcb7-fb49-4475-9ea0-20d3f750c2b0)
 
@@ -59,5 +59,33 @@ Presion
 ![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5a33a28b-dc08-4d67-9e98-2368aba5f4c1)
 
 ![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/369d6b79-53c0-4d30-bdb8-abbbe1b1eb17)
+
+Calidad del aire
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/69756bf6-554d-4dc2-9ad6-31fa69b639be)
+
+Humedad
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5ff1a4eb-3e09-4171-8c14-105e79cdbe3f)
+
+Temperatura
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/5550cda5-6911-46af-8e51-1085571958c3)
+
+## Planta Alta
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/9cee62b7-ab60-498b-b719-3c28c1bfd4c4)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/0785ac17-3d7b-495b-bd84-4b287dbbccff)
+
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/f1cdc8b3-489e-4945-8a7d-093c52e10d6b)
+
+Temperatura
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/382611fe-6926-4ab2-873b-ed865a90985e)
+
+Humedad
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/0ced3517-0715-4ae8-afa9-f90874e25d3b)
+
+Luminosidad
+![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/bdfaa3e8-f26e-4021-a30d-fb9bac745fa2)
+
+# 4.3 Entender y practicar el protocolo MQTT a través de Ubidots para enviar y leer datos de sensores reales (DHT 11)
 
 

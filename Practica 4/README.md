@@ -88,7 +88,7 @@ Luminosidad
 
 # 4.3 Entender y practicar el protocolo MQTT a través de Ubidots para enviar y leer datos de sensores reales (DHT 11)
 
-[Codigo de nuevo dispositivo](CodigoUbidots.ime)
+[Codigo de nuevo dispositivo](CodigoCreacionDevice.ino)
 
 ![imagen](https://github.com/Salas-03/Practicas-IoT-P2023/assets/143568206/42f55ff0-b108-405f-b22c-d255f576facc)
 

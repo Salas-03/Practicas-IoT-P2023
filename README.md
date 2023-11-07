@@ -1,2 +1,2 @@
-# Practicas-IoT-P2023
+# Practicas-IoT-O2023
 Practicas del ITESO de IoT
